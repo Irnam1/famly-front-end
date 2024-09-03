@@ -21,7 +21,7 @@ const Public = () => {
           rowGap="9"
         >
           <Heading as="h1" size="xl" textAlign="center">
-            Rencontre avec les personnages Disney
+            Family outing manager
           </Heading>
           <Text
             fontSize="m"
