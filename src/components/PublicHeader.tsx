@@ -5,8 +5,8 @@ const PublicHeader = () => {
     <Box
       display="flex"
       justifyContent="space-between"
-      paddingTop="15px"
-      paddingX="60px"
+      paddingTop="7px"
+      paddingX="35px"
     >
       <Link to="/">
         <Text fontSize="3xl" fontWeight="800">
